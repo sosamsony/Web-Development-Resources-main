@@ -1,5 +1,5 @@
-![Samson Sanyaolu](https://react.sosarenqa.com)
 ![Hero Image](https://i.ibb.co/BwHkjFp/Group-3892.png)
+[Samson Sanyaolu](https://react.sosarenqa.com)
 
 ## Table of Contents
 
