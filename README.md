@@ -1,5 +1,5 @@
-![Hero Image](https://i.ibb.co/BwHkjFp/Group-3892.png)
-[Samson Sanyaolu](https://react.sosarenqa.com)
+![Hero Image](https://sosamson.com/webresources.png)
+[Samson Sanyaolu](https://sosamson.com)
 
 ## Table of Contents
 
@@ -758,6 +758,6 @@
 3. #100DaysCSS
    https://100dayscss.com/
 
-![Fueler.io](https://i.ibb.co/HX8NRxy/image.png)
+![Samson Sanyaolu](https://sosamson.com/webresources.png)
 
-# [Fueler: Home for Generalists](fueler.io)
+# [LinkedIn: Samson Sanyaolu](https://www.linkedin.com/in/samson-sanyaolu/)
